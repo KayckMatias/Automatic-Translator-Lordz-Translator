@@ -1,6 +1,6 @@
 var firstText = $("#first_text");
 var secondText = $("#second_text");
-var textLanguageDetect = $("text_language_detect");
+var textLanguageDetect = $("#text_language_detect");
 
 var textDetect = $("#detect_text");
 
@@ -61,7 +61,6 @@ function detectLanguage(){
         btnInsertSelect.attr("onclick", "addSelect('" + data + "')");
         btnInsertSecondSelect.html("Traduzir para: " + data);
         btnInsertSecondSelect.attr("onclick", "addsecondSelect('" + data + "')");
-        verifySelected();
     });   
 }
 function addSelect(language){
