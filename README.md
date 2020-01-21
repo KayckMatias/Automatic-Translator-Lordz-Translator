@@ -11,3 +11,4 @@ Automatic translator created with PHP and jQuery using Yandex Translator API
 <p>Para o Script funcionar é necessário ter a sua chave, para ter, me contate</p>
 
 <h2>Made with &hearts; by LordzSpectron</h2>
+<h3>DEMO: </h3>http://lordzspectron.ml/lordz-translator/
