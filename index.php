@@ -81,7 +81,7 @@
         </div>
       </div>
       <div class="center hide" id="div_language_detect">
-        <h6>Linguagem-code: <span id="text_language_detect"></span></h6> 
+        <h6>Language Code: <span id="text_language_detect"></span></h6> 
         <a class="waves-effect waves-light btn red lighten-1 center modal-close" id="btn_insertSelect" style="margin-top:20px;"></a> 
         <a class="waves-effect waves-light btn red lighten-1 center modal-close" id="btn_insertsecondSelect" style="margin-top:20px;"></a> 
       </div>
